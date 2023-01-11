@@ -11,6 +11,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   background: #e0e8ff;
   background-image: url("./images/pattern-background-desktop.svg");
+  background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
   justify-content: center;
